@@ -29,3 +29,16 @@ function largestNum(input) {
 
 console.log(largestNum([0, 15, 99, 1001, 45]));
 console.log(largestNum([-3, -55, -1, -3, 8]));
+
+//Call Function
+firstLetterName("Jahaira")
+firstLetterName("Shaun")
+
+console.log(divisibleByTwo(5))
+console.log(divisibleByTwo(8))
+console.log(divisibleByTwo(33))
+console.log(divisibleByTwo(68))
+console.log(divisibleByTwo(95))
+
+console.log(largestNum([0, 15, 99, 1001, 45]));
+console.log(largestNum([-3, -55, -1, -3, 8]));
