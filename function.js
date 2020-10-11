@@ -3,7 +3,6 @@ function firstLetterName(name) {
   alert("The name" + name + "starts with the letter" + name[0]);
 }
 
-
 //divisibleByTwo
 function divisibleByTwo(num) {
   if (num % 2 == 0)
@@ -24,9 +23,6 @@ function largestNum(input) {
     return false;
   return Math.max.apply(null, input);
 }
-
-console.log(largestNum([0, 15, 99, 1001, 45]));
-console.log(largestNum([-3, -55, -1, -3, 8]));
 
 //Call Function
 firstLetterName("Jahaira")
