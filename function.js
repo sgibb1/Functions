@@ -1,6 +1,6 @@
 //First Name
 function firstLetterName(name) {
-  alert("The name" + name + "starts with the letter" + name[0]);
+  alert("The name " + name + " starts with the letter " + name[0]);
 }
 
 //divisibleByTwo
@@ -11,11 +11,6 @@ function divisibleByTwo(num) {
     return false;
 }
 
-console.log(divisibleByTwo(5))
-console.log(divisibleByTwo(8))
-console.log(divisibleByTwo(33))
-console.log(divisibleByTwo(68))
-console.log(divisibleByTwo(95))
 
 //largetsNum
 function largestNum(input) {
